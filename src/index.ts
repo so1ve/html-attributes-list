@@ -1,4 +1,4 @@
-export const htmlAttrs = [
+export const htmlAttributes = [
   "accept",
   "accept-charset",
   "accesskey",
